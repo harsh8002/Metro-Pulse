@@ -1,0 +1,16 @@
+# Secrets
+.env
+**/.env
+**/local.properties
+
+# Runtime data
+metropulse/reports.json
+metropulse/reports.json.tmp
+
+# Build artifacts and dependencies
+**/build/
+**/.gradle/
+**/node_modules/
+*.log
+.DS_Store
+Thumbs.db
